@@ -7,8 +7,10 @@
     <Version>1.4.0</Version>
     <Company>DevMondo</Company>
     <Copyright>Copyright © DevMondo 2014</Copyright>
-    <Description>SimpleInjector IoC Hangfire Integration</Description>
+    <Description>SimpleInjector IoC Hangfire Integration
+For of https://www.nuget.org/packages/HangFire.SimpleInjector/</Description>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Hangfire.SimpleInjector.NetStandard</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
